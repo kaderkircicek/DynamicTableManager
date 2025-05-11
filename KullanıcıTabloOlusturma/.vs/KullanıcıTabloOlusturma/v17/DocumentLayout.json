@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\stajkodu1\\Kullan\u0131c\u0131TabloOlusturma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C47E7CF6-44B1-46D5-A299-EC750B780D80}|Kullan\u0131c\u0131TabloOlusturma\\Kullan\u0131c\u0131TabloOlusturma.csproj|c:\\users\\ezgi\\onedrive\\masa\u00FCst\u00FC\\stajkodu1\\kullan\u0131c\u0131tabloolusturma\\kullan\u0131c\u0131tabloolusturma\\kay\u0131tol.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C47E7CF6-44B1-46D5-A299-EC750B780D80}|Kullan\u0131c\u0131TabloOlusturma\\Kullan\u0131c\u0131TabloOlusturma.csproj|solutionrelative:kullan\u0131c\u0131tabloolusturma\\kay\u0131tol.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47E7CF6-44B1-46D5-A299-EC750B780D80}|Kullan\u0131c\u0131TabloOlusturma\\Kullan\u0131c\u0131TabloOlusturma.csproj|c:\\users\\ezgi\\onedrive\\masa\u00FCst\u00FC\\stajkodu1\\kullan\u0131c\u0131tabloolusturma\\kullan\u0131c\u0131tabloolusturma\\kay\u0131tol.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47E7CF6-44B1-46D5-A299-EC750B780D80}|Kullan\u0131c\u0131TabloOlusturma\\Kullan\u0131c\u0131TabloOlusturma.csproj|solutionrelative:kullan\u0131c\u0131tabloolusturma\\kay\u0131tol.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47E7CF6-44B1-46D5-A299-EC750B780D80}|Kullan\u0131c\u0131TabloOlusturma\\Kullan\u0131c\u0131TabloOlusturma.csproj|C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\stajkodu1\\Kullan\u0131c\u0131TabloOlusturma\\kullan\u0131c\u0131tabloolusturma\\veritabanibaglantisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47E7CF6-44B1-46D5-A299-EC750B780D80}|Kullan\u0131c\u0131TabloOlusturma\\Kullan\u0131c\u0131TabloOlusturma.csproj|solutionrelative:kullan\u0131c\u0131tabloolusturma\\veritabanibaglantisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47E7CF6-44B1-46D5-A299-EC750B780D80}|Kullan\u0131c\u0131TabloOlusturma\\Kullan\u0131c\u0131TabloOlusturma.csproj|C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\stajkodu1\\Kullan\u0131c\u0131TabloOlusturma\\kullan\u0131c\u0131tabloolusturma\\girisyap.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C47E7CF6-44B1-46D5-A299-EC750B780D80}|Kullan\u0131c\u0131TabloOlusturma\\Kullan\u0131c\u0131TabloOlusturma.csproj|solutionrelative:kullan\u0131c\u0131tabloolusturma\\girisyap.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47E7CF6-44B1-46D5-A299-EC750B780D80}|Kullan\u0131c\u0131TabloOlusturma\\Kullan\u0131c\u0131TabloOlusturma.csproj|C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\stajkodu1\\Kullan\u0131c\u0131TabloOlusturma\\kullan\u0131c\u0131tabloolusturma\\anasayfa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C47E7CF6-44B1-46D5-A299-EC750B780D80}|Kullan\u0131c\u0131TabloOlusturma\\Kullan\u0131c\u0131TabloOlusturma.csproj|solutionrelative:kullan\u0131c\u0131tabloolusturma\\anasayfa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47E7CF6-44B1-46D5-A299-EC750B780D80}|Kullan\u0131c\u0131TabloOlusturma\\Kullan\u0131c\u0131TabloOlusturma.csproj|C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\stajkodu1\\Kullan\u0131c\u0131TabloOlusturma\\kullan\u0131c\u0131tabloolusturma\\anasayfa.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{C47E7CF6-44B1-46D5-A299-EC750B780D80}|Kullan\u0131c\u0131TabloOlusturma\\Kullan\u0131c\u0131TabloOlusturma.csproj|solutionrelative:kullan\u0131c\u0131tabloolusturma\\anasayfa.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47E7CF6-44B1-46D5-A299-EC750B780D80}|Kullan\u0131c\u0131TabloOlusturma\\Kullan\u0131c\u0131TabloOlusturma.csproj|C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\stajkodu1\\Kullan\u0131c\u0131TabloOlusturma\\kullan\u0131c\u0131tabloolusturma\\anasayfa.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47E7CF6-44B1-46D5-A299-EC750B780D80}|Kullan\u0131c\u0131TabloOlusturma\\Kullan\u0131c\u0131TabloOlusturma.csproj|solutionrelative:kullan\u0131c\u0131tabloolusturma\\anasayfa.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 115,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kay\u0131tOl.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\stajkodu1\\Kullan\u0131c\u0131TabloOlusturma\\Kullan\u0131c\u0131TabloOlusturma\\Kay\u0131tOl.aspx.cs",
+              "RelativeDocumentMoniker": "Kullan\u0131c\u0131TabloOlusturma\\Kay\u0131tOl.aspx.cs",
+              "ToolTip": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\stajkodu1\\Kullan\u0131c\u0131TabloOlusturma\\Kullan\u0131c\u0131TabloOlusturma\\Kay\u0131tOl.aspx.cs",
+              "RelativeToolTip": "Kullan\u0131c\u0131TabloOlusturma\\Kay\u0131tOl.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:15:45.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kay\u0131tOl.aspx",
+              "DocumentMoniker": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\stajkodu1\\Kullan\u0131c\u0131TabloOlusturma\\Kullan\u0131c\u0131TabloOlusturma\\Kay\u0131tOl.aspx",
+              "RelativeDocumentMoniker": "Kullan\u0131c\u0131TabloOlusturma\\Kay\u0131tOl.aspx",
+              "ToolTip": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\stajkodu1\\Kullan\u0131c\u0131TabloOlusturma\\Kullan\u0131c\u0131TabloOlusturma\\Kay\u0131tOl.aspx",
+              "RelativeToolTip": "Kullan\u0131c\u0131TabloOlusturma\\Kay\u0131tOl.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-10T10:40:46.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VeriTabaniBaglantisi.cs",
+              "DocumentMoniker": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\stajkodu1\\Kullan\u0131c\u0131TabloOlusturma\\Kullan\u0131c\u0131TabloOlusturma\\VeriTabaniBaglantisi.cs",
+              "RelativeDocumentMoniker": "Kullan\u0131c\u0131TabloOlusturma\\VeriTabaniBaglantisi.cs",
+              "ToolTip": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\stajkodu1\\Kullan\u0131c\u0131TabloOlusturma\\Kullan\u0131c\u0131TabloOlusturma\\VeriTabaniBaglantisi.cs",
+              "RelativeToolTip": "Kullan\u0131c\u0131TabloOlusturma\\VeriTabaniBaglantisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T09:47:10.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GirisYap.aspx",
+              "DocumentMoniker": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\stajkodu1\\Kullan\u0131c\u0131TabloOlusturma\\Kullan\u0131c\u0131TabloOlusturma\\GirisYap.aspx",
+              "RelativeDocumentMoniker": "Kullan\u0131c\u0131TabloOlusturma\\GirisYap.aspx",
+              "ToolTip": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\stajkodu1\\Kullan\u0131c\u0131TabloOlusturma\\Kullan\u0131c\u0131TabloOlusturma\\GirisYap.aspx",
+              "RelativeToolTip": "Kullan\u0131c\u0131TabloOlusturma\\GirisYap.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-09T10:46:42.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Anasayfa.aspx",
+              "DocumentMoniker": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\stajkodu1\\Kullan\u0131c\u0131TabloOlusturma\\Kullan\u0131c\u0131TabloOlusturma\\Anasayfa.aspx",
+              "RelativeDocumentMoniker": "Kullan\u0131c\u0131TabloOlusturma\\Anasayfa.aspx",
+              "ToolTip": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\stajkodu1\\Kullan\u0131c\u0131TabloOlusturma\\Kullan\u0131c\u0131TabloOlusturma\\Anasayfa.aspx",
+              "RelativeToolTip": "Kullan\u0131c\u0131TabloOlusturma\\Anasayfa.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-09T10:26:27.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Anasayfa.Master.cs",
+              "DocumentMoniker": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\stajkodu1\\Kullan\u0131c\u0131TabloOlusturma\\Kullan\u0131c\u0131TabloOlusturma\\Anasayfa.Master.cs",
+              "RelativeDocumentMoniker": "Kullan\u0131c\u0131TabloOlusturma\\Anasayfa.Master.cs",
+              "ToolTip": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\stajkodu1\\Kullan\u0131c\u0131TabloOlusturma\\Kullan\u0131c\u0131TabloOlusturma\\Anasayfa.Master.cs",
+              "RelativeToolTip": "Kullan\u0131c\u0131TabloOlusturma\\Anasayfa.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T09:52:43.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Anasayfa.Master",
+              "DocumentMoniker": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\stajkodu1\\Kullan\u0131c\u0131TabloOlusturma\\Kullan\u0131c\u0131TabloOlusturma\\Anasayfa.Master",
+              "RelativeDocumentMoniker": "Kullan\u0131c\u0131TabloOlusturma\\Anasayfa.Master",
+              "ToolTip": "C:\\Users\\EZGI\\OneDrive\\Masa\u00FCst\u00FC\\stajkodu1\\Kullan\u0131c\u0131TabloOlusturma\\Kullan\u0131c\u0131TabloOlusturma\\Anasayfa.Master",
+              "RelativeToolTip": "Kullan\u0131c\u0131TabloOlusturma\\Anasayfa.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-09T09:52:36.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
